@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning Node.js.
 - 🌱 I’m currently learning everything 🤣
-- 👯
+- 👯 I'm from Nepal.
 - 🥅 2020 Goals: Contribute more to Open Source projects.Gotta give it back to the community.
 - ⚡ Fun fact: I play guitar and drums.Well, not really. I just read books !
 
